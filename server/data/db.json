@@ -1,0 +1,241 @@
+{
+  "products": [
+    {
+      "_id": "z7r1gobp7",
+      "name": "AeroSound Pro ANC Headphones",
+      "description": "Experience absolute acoustic purity with industry-leading Active Noise Cancellation, custom-tuned high-excursion drivers, and 45 hours of immersive battery life. Designed with memory-foam leather cushions for maximum dynamic comfort.",
+      "price": 249.99,
+      "category": "Tech & Gadgets",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.8,
+      "stock": 25,
+      "specs": {
+        "Driver Size": "40mm Custom Dynamic",
+        "Battery Life": "Up to 45 Hours",
+        "Bluetooth": "v5.3 Low Energy",
+        "Weight": "260g"
+      },
+      "reviews": [
+        {
+          "user": "Sarah K.",
+          "rating": 5,
+          "comment": "Absolutely incredible sound! The noise cancellation is a game changer for flights.",
+          "date": "2026-05-18T10:30:00.000Z"
+        },
+        {
+          "user": "David M.",
+          "rating": 4.5,
+          "comment": "Super comfortable. Battery seems to last forever.",
+          "date": "2026-05-20T14:15:00.000Z"
+        }
+      ],
+      "createdAt": "2026-05-22T20:48:29.450Z",
+      "updatedAt": "2026-05-22T20:48:29.450Z"
+    },
+    {
+      "_id": "k1s1zklcp",
+      "name": "ChronoLux Kinetic Sapphire Watch",
+      "description": "A testament to master horology. Featuring an open-heart kinetic movement, hand-assembled mechanical gears, scratch-resistant sapphire crystal casing, and a genuine calfskin leather strap. Water-resistant up to 50 meters.",
+      "price": 389,
+      "category": "Fashion & Apparel",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "stock": 11,
+      "specs": {
+        "Movement": "Automatic Kinetic",
+        "Case Diameter": "42mm",
+        "Strap Material": "Genuine Calfskin Leather",
+        "Water Resistance": "5 ATM / 50m"
+      },
+      "reviews": [
+        {
+          "user": "Marcus V.",
+          "rating": 5,
+          "comment": "The craftsmanship is astonishing. You can feel the quality on your wrist.",
+          "date": "2026-05-12T08:22:00.000Z"
+        }
+      ],
+      "createdAt": "2026-05-22T20:48:29.454Z",
+      "updatedAt": "2026-05-22T21:16:57.827Z"
+    },
+    {
+      "_id": "dfz19rk1k",
+      "name": "Nebula Glow Smart Ambient Light Bar",
+      "description": "Transform your living space with adaptive ambient lighting. Syncs seamlessly with movies, music, and games using smart reactive sensors. Exposes 16.8 million colors with smooth, dynamic gradient flows via our custom smart-home controller app.",
+      "price": 89.99,
+      "category": "Smart Home",
+      "image": "https://images.unsplash.com/photo-1507646227500-4d389b0012be?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.6,
+      "stock": 50,
+      "specs": {
+        "Colors": "16.8 Million RGBIC",
+        "Connectivity": "Wi-Fi 2.4GHz & Bluetooth",
+        "Smart Sync": "Alexa, Google Assistant, Custom App",
+        "Length": "45cm per bar"
+      },
+      "reviews": [
+        {
+          "user": "Emily R.",
+          "rating": 4,
+          "comment": "Easy to set up and the colors are brilliant. The app is highly responsive.",
+          "date": "2026-05-21T18:40:00.000Z"
+        }
+      ],
+      "createdAt": "2026-05-22T20:48:29.454Z",
+      "updatedAt": "2026-05-22T20:48:29.454Z"
+    },
+    {
+      "_id": "wgam68qcz",
+      "name": "ApexFit Carbon GPS Smartwatch",
+      "description": "Designed for extreme performance. Incorporates multi-band GPS routing, blood-oxygen monitoring, real-time aerobic strain indicators, and dynamic pacing metrics. Enclosed in a heavy-duty aerospace-grade titanium-carbon hybrid chassis.",
+      "price": 299.5,
+      "category": "Active Lifestyle",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.7,
+      "stock": 30,
+      "specs": {
+        "Chassis": "Aerospace Titanium & Carbon Fiber",
+        "GPS": "Multi-Band Dual-Frequency GNSS",
+        "Sensors": "Heart Rate, SpO2, Barometer, Gyro",
+        "Battery Life": "14 Days Smartwatch / 36 Hours GPS"
+      },
+      "reviews": [
+        {
+          "user": "Chris T.",
+          "rating": 5,
+          "comment": "The GPS tracking is insanely accurate. Perfect for trail running.",
+          "date": "2026-05-19T06:12:00.000Z"
+        }
+      ],
+      "createdAt": "2026-05-22T20:48:29.455Z",
+      "updatedAt": "2026-05-22T20:48:29.455Z"
+    },
+    {
+      "_id": "40pcnbi8m",
+      "name": "Nomad Leather Tech Organizer",
+      "description": "Crafted for modern digital nomads. Constructed using water-resistant ballistic nylon and rich Horween leather accents. Features elastic tension loops, mesh cable pods, a dedicated stylus sleeve, and an RFID-blocking passport slot.",
+      "price": 75,
+      "category": "Fashion & Apparel",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.5,
+      "stock": 45,
+      "specs": {
+        "Exterior": "1680D Ballistic Nylon",
+        "Trim": "Horween Leather",
+        "Dimensions": "24cm x 15cm x 7cm",
+        "RFID Shield": "Yes, Active Protection"
+      },
+      "reviews": [],
+      "createdAt": "2026-05-22T20:48:29.456Z",
+      "updatedAt": "2026-05-22T20:48:29.456Z"
+    },
+    {
+      "_id": "jwltdkkp3",
+      "name": "Lumina 4K Ultra Short Throw Projector",
+      "description": "Bring the cinema to your living room. Capable of projecting a massive 120-inch 4K HDR10+ screen from just inches away. Equipped with 2500 ANSI Lumens, a high-fidelity Harman Kardon sound system, and integrated Android TV.",
+      "price": 1899,
+      "category": "Tech & Gadgets",
+      "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "stock": 5,
+      "specs": {
+        "Resolution": "4K UHD (3840 x 2160)",
+        "Brightness": "2500 ANSI Lumens",
+        "Throw Ratio": "0.21:1 Ultra Short Throw",
+        "Sound": "Harman Kardon 30W Speakers"
+      },
+      "reviews": [
+        {
+          "user": "Steven L.",
+          "rating": 5,
+          "comment": "Absolute masterpiece. Colors are stunning even during daylight. Worth every single penny.",
+          "date": "2026-05-15T22:11:00.000Z"
+        }
+      ],
+      "createdAt": "2026-05-22T20:48:29.457Z",
+      "updatedAt": "2026-05-22T20:48:29.457Z"
+    }
+  ],
+  "orders": [
+    {
+      "_id": "1so4576j2",
+      "orderNumber": "NM-1001",
+      "status": "Pending",
+      "userId": "2wi6e7hmd",
+      "customerName": "Inam Ullah",
+      "email": "inam@gmail.com",
+      "items": [
+        {
+          "productId": "k1s1zklcp",
+          "name": "ChronoLux Kinetic Sapphire Watch",
+          "price": 389,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60",
+          "category": "Fashion & Apparel",
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": "Gsvy Svjs Jvsu Pakistan, Lahore, as 222, United States",
+      "paymentMethod": "Visa Ending In 4534",
+      "totals": {
+        "subtotal": 389,
+        "tax": 31.12,
+        "shipping": 0,
+        "total": 420.12
+      },
+      "createdAt": "2026-05-22T21:16:57.830Z",
+      "updatedAt": "2026-05-22T21:16:57.830Z"
+    }
+  ],
+  "users": [
+    {
+      "_id": "u03rvfq28",
+      "email": "admin@nexusmart.com",
+      "password": "admin",
+      "name": "Alex Mercer",
+      "role": "admin",
+      "address": {
+        "street": "100 Shopify Way",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94103",
+        "country": "United States"
+      },
+      "createdAt": "2026-05-22T20:48:29.465Z",
+      "updatedAt": "2026-05-22T20:48:29.465Z"
+    },
+    {
+      "_id": "xl657ywe1",
+      "email": "user@nexusmart.com",
+      "password": "user",
+      "name": "John Doe",
+      "role": "customer",
+      "address": {
+        "street": "742 Evergreen Terrace",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62704",
+        "country": "United States"
+      },
+      "createdAt": "2026-05-22T20:48:29.466Z",
+      "updatedAt": "2026-05-22T20:48:29.466Z"
+    },
+    {
+      "_id": "2wi6e7hmd",
+      "role": "customer",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "country": ""
+      },
+      "name": "Inam Ullah",
+      "email": "inam@gmail.com",
+      "password": "asd",
+      "createdAt": "2026-05-22T20:56:40.286Z",
+      "updatedAt": "2026-05-22T21:16:57.976Z",
+      "cart": []
+    }
+  ],
+  "chats": []
+}
