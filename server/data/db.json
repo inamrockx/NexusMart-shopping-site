@@ -201,7 +201,25 @@
         "country": "United States"
       },
       "createdAt": "2026-05-22T20:48:29.465Z",
-      "updatedAt": "2026-05-22T20:48:29.465Z"
+      "updatedAt": "2026-05-23T13:10:49.313Z",
+      "cart": [
+        {
+          "productId": "z7r1gobp7",
+          "name": "AeroSound Pro ANC Headphones",
+          "price": 249.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+          "category": "Tech & Gadgets",
+          "quantity": 1
+        },
+        {
+          "productId": "jwltdkkp3",
+          "name": "Lumina 4K Ultra Short Throw Projector",
+          "price": 1899,
+          "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=800&auto=format&fit=crop&q=60",
+          "category": "Tech & Gadgets",
+          "quantity": 1
+        }
+      ]
     },
     {
       "_id": "xl657ywe1",
@@ -233,7 +251,7 @@
       "email": "inam@gmail.com",
       "password": "asd",
       "createdAt": "2026-05-22T20:56:40.286Z",
-      "updatedAt": "2026-05-22T21:16:57.976Z",
+      "updatedAt": "2026-05-23T13:09:08.598Z",
       "cart": []
     }
   ],

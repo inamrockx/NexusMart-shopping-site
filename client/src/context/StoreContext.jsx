@@ -2,7 +2,7 @@ import React, { createContext, useState, useEffect } from 'react';
 
 export const StoreContext = createContext();
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/api';
+const API_BASE = import.meta.env.VITE_API_BASE_URL || (window.location.port === '5173' || window.location.port === '5174' ? 'http://localhost:5000/api' : '/api');
 
 export const StoreProvider = ({ children }) => {
   const [products, setProducts] = useState([]);
